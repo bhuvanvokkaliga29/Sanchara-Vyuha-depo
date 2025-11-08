@@ -1,0 +1,8 @@
+Route_ID,Bus_Stop_ID,T+1_Timestamp,T+2_Timestamp,T+3_Timestamp,Pred_t+1,Buses_t+1,Pred_t+2,Buses_t+2,Pred_t+3,Buses_t+3,Dispatch_Reason,Bus_Capacity,Load_Factor
+365J,AMC601,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,27.0,1,25.25,1,23.5,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 30%, wait 2m.",60.0,0.85
+365J,BGC501,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,27.583333333333332,1,25.666666666666668,1,23.75,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 28%, wait 6m.",60.0,0.85
+365J,GOT401,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,24.5,1,22.25,1,20.0,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 24%, wait 4m.",60.0,0.85
+365J,KBS001,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,34.666666666666664,1,30.333333333333336,1,26.0,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 32%, wait 4m.",60.0,0.85
+365J,KFG301,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,24.583333333333332,1,22.916666666666668,1,21.25,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 29%, wait 2m.",60.0,0.85
+365J,KRC201,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,33.166666666666664,1,31.333333333333332,1,29.5,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 42%, wait 5m.",60.0,0.85
+365J,MHC101,2025-10-05 11:00:00,2025-10-05 12:00:00,2025-10-05 13:00:00,30.0,1,27.75,1,25.5,1,"Baseline avg(last 4h)+trend; congestion Low, weather Cloudy, last occupancy 29%, wait 5m.",60.0,0.85

@@ -14,7 +14,7 @@
 | 💻 Complete Source Code | [Download](https://drive.google.com/drive/folders/1Qli1WmF1rsuBH9Mqq8DkDT4JZPhjWQlo?usp=sharing) | All backend, frontend, AI, and dashboard code for the Smart Bus Depot System. Ready to run for demo or testing. |
 | 🎥 Demo Video | [Watch](https://youtu.be/3Qm9XLqzvg8) | Full walkthrough showing the AI Smart Depot in action: passenger counting, peak hour prediction, sustainability dashboard, and AI recommendations. |
 | 📊 AI VIEDO | [Watch](https://youtu.be/urcaU21asDU) | AI viedo How our project Works.|
-| Deployed model | [Watch](https://trust-builders-replit-1-sanchara-vyuha.replit.app)|working model deployment by mock data
+| Deployed model | [Click](https://trust-builders-replit-1-sanchara-vyuha.replit.app)|working model deployment by mock data
 
 ---
 

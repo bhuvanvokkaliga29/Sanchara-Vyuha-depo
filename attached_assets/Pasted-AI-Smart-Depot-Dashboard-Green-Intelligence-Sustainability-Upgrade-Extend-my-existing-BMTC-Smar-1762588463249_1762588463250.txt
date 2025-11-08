@@ -1,0 +1,205 @@
+AI Smart Depot Dashboard – Green Intelligence & Sustainability Upgrade
+
+Extend my existing BMTC Smart Depot Dashboard by adding a full “🌱 Green Intelligence & Sustainability Section” below the current main metrics.
+Keep the same yellow–white gradient theme, rounded cards, and modern minimal UI.
+
+The section should feel AI-powered, data-rich, and visually aligned with the theme:
+
+🧠 AI for a Sustainable Planet – Code That Saves Carbon
+
+🌍 Section Title:
+
+Sustainability Dashboard – Green Intelligence Stats
+
+🌱 1. Core Sustainability Metrics (Top Row Cards)
+
+Create four animated cards with smooth counters and icons:
+
+Metric	Icon	Description	Extra Visual
+Carbon Emission Saved (kg CO₂)	🌿	“Estimated CO₂ saved through optimized bus routes.”	Green progress bar (auto-updating)
+Fuel Efficiency (L/100km)	⛽	“Saved X litres this week compared to baseline.”	Mini fuel gauge bar
+Eco Score (0–100)	💚	“Environmental performance score based on emission, occupancy & idle time.”	Circular color-coded progress meter (red–yellow–green)
+EV Readiness (%)	⚡	“Routes suitable for electric conversion.”	Horizontal progress bar
+
+All values should auto-update with mock dynamic data every 5–10 seconds.
+
+📈 2. Visualization Section (Below Cards)
+
+Split into two halves:
+
+Left: Line Chart – “Emission Reduction Trend (Last 7 Days)”
+
+X-axis: Days
+
+Y-axis: CO₂ saved (kg)
+
+Smooth animation on data change.
+
+Right: Bar Chart – “Fuel Optimization by Depot”
+
+X-axis: Depot Names (mock: Depot 1–5)
+
+Y-axis: Litres saved
+
+Highlight current depot.
+
+Charts refresh automatically with mock changes.
+
+🤖 3. AI Insights Panel
+
+Add 3–4 animated AI recommendation cards (scrollable or cycling):
+
+Examples:
+
+“Shift 2 diesel buses on Route 365J to EV — 1.3 kg CO₂/day saved.”
+
+“Reduce 1 off-peak bus at Maharani College stop.”
+
+“Depot 3 reached Eco Score 92 — Efficiency Level A.”
+
+“Schedule preventive maintenance on high-idle Route 210E.”
+
+Add a small 🤖 AI icon, soft fade-in transitions, and mock data rotation every 10s.
+
+🧮 4. AI Forecast Box
+
+A small card titled:
+
+AI Prediction: Tomorrow’s CO₂ Emission
+Show:
+
+“Predicted: 890 kg CO₂ (↓ 5% from today)”
+
+Include a small trend arrow ↑↓ and percentage change.
+
+✅ Use random trending mock data for demo.
+
+🧭 5. Smart Route Optimizer Panel
+
+Add a small table with mock optimization data:
+
+Route	Efficiency	CO₂ Saved	Suggestion
+365J	92%	1.3 kg/day	Shift 1 diesel to EV
+290B	81%	0.9 kg/day	Reduce 2 off-peak trips
+210E	75%	0.5 kg/day	Adjust departure times
+
+✅ Simple data table with green/yellow/red indicators for efficiency.
+
+🔋 6. Depot Energy & EV Charging Tracker
+
+Add a mini Energy Monitor card group:
+
+⚡ Depot Power Usage: “230 kWh/day”
+
+🔋 EV Charging Load: “90 kWh/day”
+
+Include comparative icons: “↓10% this week”
+Use animated bars or small donut charts.
+
+⚠ 7. AI Anomaly Detector
+
+Show automatic alerts if mock data crosses thresholds:
+Example:
+
+“⚠ High fuel usage on Route 210E — possible traffic congestion.”
+“⚠ CO₂ spike detected — optimization needed.”
+
+✅ Animate alerts (blink or pulse softly).
+✅ Automatically clear after 5 seconds.
+
+🧩 8. City Impact Simulator
+
+A futuristic panel showing city-level projection:
+
+“If 5 depots adopt this system → 12 tons CO₂ saved per month.”
+Add animated growing leaf icons 🌿 as visual impact.
+
+🚌 9. Bus-Level Eco Data Table
+
+Add expandable data table:
+
+Bus No	Fuel Saved (L)	CO₂ Saved (kg)	Eco Rating
+KA-57-F-1123	12	28	A
+KA-57-G-9321	8	18	B
+KA-57-H-2231	15	32	A+
+
+✅ Auto-refresh every 15s with new mock data.
+
+☀ 10. Weather-Aware Insight Card
+
+Display a small AI insight like:
+
+“🌦 Rain expected tomorrow – predicted 3% lower fuel efficiency.”
+✅ Randomize message between weather types (sunny/rainy).
+
+💚 11. Passenger Comfort Index
+
+Add card:
+
+“Passenger Comfort Index: 8.6/10 — peak time crowd reduced by 21%.”
+✅ Simulate value updates based on load.
+
+🧾 12. AI Report Generator Button
+
+Add a “🧾 Generate Weekly Report” button:
+When clicked → show a summary box or exportable text:
+
+“This week, Depot 3 saved 312L fuel, reduced 820 kg CO₂, achieved Eco Score 87 (Grade A), and EV Readiness: 63%.”
+
+✅ Optional: Print or download as text/PDF.
+
+🧠 13. AI Voice Query (Optional Enhancement)
+
+Add a mic 🎙 button — when clicked, show example responses:
+
+“Show today’s emission trend.”
+“Display top eco-efficient route.”
+
+(Simulate responses via UI triggers, no real speech recognition needed.)
+
+🥇 14. Eco Leaderboard (Mock Data)
+
+Add a comparative ranking card:
+
+Depot	Eco Score	Rank
+Depot 3	92	🥇
+Depot 6	87	🥈
+Depot 1	81	🥉
+
+✅ Randomize or mock data.
+
+🌐 15. Public Display Mode (Toggle Button)
+
+Button → “Enable Public Mode”
+When active: hide controls, show only top eco stats in large text.
+Perfect for depot wall screens or public awareness.
+
+🎨 UI / UX Requirements
+
+Maintain yellow–white gradient and green accent colors (#4CAF50, #A8E063).
+
+Use soft shadows, rounded cards, minimal typography.
+
+Animate all metric numbers & chart updates smoothly.
+
+Keep responsiveness for laptop & tablet screens.
+
+Add subtle green glow hover effects on sustainability cards.
+
+⚙ Data & Updates
+
+Use mock JSON arrays or random() functions for all live updates.
+
+Refresh emission, fuel, eco score, and forecast values every 5–10 seconds.
+
+Charts and tables should visually reflect updates..🏆 Final Goal
+
+This upgraded dashboard should:
+
+Match the theme “AI for a Sustainable Planet – Code That Saves Carbon.”
+
+Feel AI-driven, eco-intelligent, and data-rich.
+
+Look presentation-ready for hackathons or innovation expos.
+
+Highlight real-time sustainability awareness + AI insights for BMTC.

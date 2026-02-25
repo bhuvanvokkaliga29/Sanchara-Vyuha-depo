@@ -130,17 +130,6 @@ Bengaluru public transport issues:
 
 ---
 
-## 🌟 Why Judges Should Select This Project
-
-- ✅ Directly addresses the hackathon *Green Intelligence* theme  
-- ✅ Reduces fuel wastage & carbon emissions  
-- ✅ Provides actionable AI insights for depot managers  
-- ✅ Encourages adoption of public transport → less dependency on private vehicles  
-- ✅ Scalable from one depot to entire city  
-- ✅ Combines *computer vision, AI prediction, dashboards, and future commuter app*  
-
-> This is a *real-world green solution* with measurable sustainability impact.
-
 
 ## 📌 Next Steps / Future Enhancements
 
@@ -187,10 +176,6 @@ Bengaluru public transport issues:
 - *Social Adoption:* More commuters use buses → less congestion, safer roads, and happier citizens.  
 
 > *Key Takeaway:* Deploying this system city-wide can *transform urban commuting, making public transport **efficient, reliable, and environmentally sustainable*, while significantly reducing fuel use and carbon emissions.
-
-
-✅ *Hackathon Alignment Summary:*  
-> Our project combines *AI + real-time data + sustainability dashboards + commuter engagement* to optimize public transport, reduce fuel and carbon emissions, and promote adoption of greener urban mobility.
 
 ---
 project screenshots :
